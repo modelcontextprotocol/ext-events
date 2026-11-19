@@ -1,12 +1,12 @@
-# Triggers & Events Working Group
+# Tasks and Events Working Group
 
-> ⚠️ **Experimental** — This repository is an incubation space for the Triggers & Events Working Group. Contents are exploratory and do not represent official MCP specifications or recommendations.
+> ⚠️ **Experimental** — This repository is an incubation space for the Tasks and Events Working Group. Contents are exploratory and do not represent official MCP specifications or recommendations.
 
 ## Mission
 
-The Triggers & Events Working Group exists to define how MCP servers proactively notify clients of state changes. Today, clients learn about server-side updates by polling or holding an SSE connection open. This WG will specify a standardized callback mechanism — webhooks or similar — that lets servers push notifications when new data is available, with defined ordering guarantees that hold across all transports.
+The Tasks and Events Working Group exists to define how MCP servers proactively notify clients of state changes. Today, clients learn about server-side updates by polling or holding an SSE connection open. This WG will specify a standardized callback mechanism — webhooks or similar — that lets servers push notifications when new data is available, with defined ordering guarantees that hold across all transports.
 
-See the full [Working Group Charter](https://modelcontextprotocol.io/community/triggers-events/charter) for scope, authority, and operations.
+See the full [Working Group Charter](https://modelcontextprotocol.io/community/working-groups/tasks-events) for scope, authority, and operations.
 
 ## Scope
 
@@ -35,7 +35,9 @@ See the full [Working Group Charter](https://modelcontextprotocol.io/community/t
 | Role | Name | Organization | GitHub |
 | :--- | :--- | :--- | :--- |
 | Lead | Clare Liguori | Amazon Web Services | [@clareliguori](https://github.com/clareliguori) |
-| Lead | Peter Alexander | Anthropic | [@poita](https://github.com/poita) |
+| Lead | Peter Alexander | - | [@poita](https://github.com/poita) |
+| Lead | Luca Chang | Amazon Web Services | [@LucaButBoring](https://github.com/LucaButBoring) |
+| Lead | Caitie McCaffrey | Microsoft | [@CaitieM20](https://github.com/CaitieM20) |
 
 ## Repository Contents
 

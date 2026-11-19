@@ -28,7 +28,7 @@ Meeting norms:
 
 ## Decision-Making
 
-As a Working Group, we operate by **consensus** within the scope defined by our [charter](https://modelcontextprotocol.io/community/triggers-events/charter). Spec changes require WG consensus followed by Core Maintainer approval through the SEP process. See the charter's Authority & Decision Rights table for specifics.
+As a Working Group, we operate by **consensus** within the scope defined by our [charter](https://modelcontextprotocol.io/community/working-groups/tasks-events). Spec changes require WG consensus followed by Core Maintainer approval through the SEP process. See the charter's Authority & Decision Rights table for specifics.
 
 ## Contribution Guidelines
 
