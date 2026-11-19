@@ -35,8 +35,12 @@ See the full [Working Group Charter](https://modelcontextprotocol.io/community/t
 | Role | Name | Organization | GitHub |
 | :--- | :--- | :--- | :--- |
 | Lead | Clare Liguori | Amazon Web Services | [@clareliguori](https://github.com/clareliguori) |
-| Lead | Peter Alexander | Anthropic | [@pja-ant](https://github.com/pja-ant) |
+| Lead | Peter Alexander | Anthropic | [@poita](https://github.com/poita) |
 
 ## Repository Contents
+
+| Extension | Stage | Specification | SEP |
+| :--- | :--- | :--- | :--- |
+| Events (`io.modelcontextprotocol/events`) | Beta | [`specification/beta/events/`](specification/beta/events/events.mdx) | [SEP-3415](https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/seps/3415-events-extension.md) |
 
 This repository will hold proposals, reference implementations, and experimental findings as the WG's work progresses. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to participate.
