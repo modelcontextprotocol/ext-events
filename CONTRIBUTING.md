@@ -4,7 +4,7 @@
 
 This Working Group welcomes contributions from anyone interested in server-initiated notifications and event-driven patterns in MCP. You can participate by:
 
-- Joining discussions in the [#triggers-and-events-wg Discord channel](https://discord.com/channels/1358869848138059966/1479499641304387624) (info on joining the Discord server [here](https://modelcontextprotocol.io/community/communication#discord))
+- Joining discussions in the [#tasks-events-wg Discord channel](https://discord.com/channels/1358869848138059966/1479499641304387624) (info on joining the Discord server [here](https://modelcontextprotocol.io/community/communication#discord))
 - Opening or commenting on [GitHub Discussions](https://github.com/modelcontextprotocol/modelcontextprotocol/discussions) in the main MCP repo
 - Sharing experimental findings from your own implementations
 - Contributing to proposals and reference implementations
@@ -13,13 +13,13 @@ This Working Group welcomes contributions from anyone interested in server-initi
 
 | Channel | Purpose | Response Expectation |
 | :--- | :--- | :--- |
-| [Discord #triggers-and-events-wg](https://discord.com/channels/1358869848138059966/1479499641304387624) | Quick questions, coordination, async discussion | Best effort |
+| [Discord #tasks-events-wg](https://discord.com/channels/1358869848138059966/1479499641304387624) | Quick questions, coordination, async discussion | Best effort |
 | [GitHub Discussions](https://github.com/modelcontextprotocol/modelcontextprotocol/discussions) | Meeting notes, long-form technical proposals, experimental findings | Weekly triage |
 | This repository | Living reference for proposals, findings, and reference implementations | Updated after meetings |
 
 ## Meetings
 
-The WG holds a weekly 30-minute working session for technical discussion and proposal review. Scheduling is posted in the [#triggers-and-events-wg Discord channel](https://discord.com/channels/1358869848138059966/1479499641304387624).
+The WG holds a weekly 30-minute working session for technical discussion and proposal review. Scheduling is posted in the [#tasks-events-wg Discord channel](https://discord.com/channels/1358869848138059966/1479499641304387624).
 
 Meeting norms:
 
@@ -28,7 +28,7 @@ Meeting norms:
 
 ## Decision-Making
 
-As a Working Group, we operate by **consensus** within the scope defined by our [charter](https://modelcontextprotocol.io/community/triggers-events/charter). Spec changes require WG consensus followed by Core Maintainer approval through the SEP process. See the charter's Authority & Decision Rights table for specifics.
+As a Working Group, we operate by **consensus** within the scope defined by our [charter](https://modelcontextprotocol.io/community/working-groups/tasks-events). Spec changes require WG consensus followed by Core Maintainer approval through the SEP process. See the charter's Authority & Decision Rights table for specifics.
 
 ## Contribution Guidelines
 
