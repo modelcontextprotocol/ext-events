@@ -1,4 +1,4 @@
-# CODEOWNERS file for the experimental-ext-triggers-events repository
+# CODEOWNERS file for the ext-events repository
 # This file defines code review assignments for pull requests.
 #
 # For more information about CODEOWNERS, see:
@@ -8,5 +8,7 @@
 # https://github.com/modelcontextprotocol/access
 
 # Default owners for all files in the repository
-# The Tasks & Events Working Group has day-to-day governance
-* @modelcontextprotocol/tasks-events-wg
+# The Tasks and Events Working Group leads have day-to-day governance.
+# Working group members can push branches and open pull requests, but a
+# merge needs approval from a lead.
+* @modelcontextprotocol/tasks-events-wg-leads
